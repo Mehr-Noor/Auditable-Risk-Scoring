@@ -1,12 +1,4 @@
 
-
-# 🔧 LLD – Low Level Design
-
-## فایل: `LLD.md`
-
-⬇️ **این فایل را عیناً کپی کن** ⬇️
-
-```markdown
 # Low Level Design (LLD)
 ## Auditable Risk Scoring System
 
